@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Threads-Geminiani", "Threads-Geminiani.csproj", "{105DE0F0-BB3B-4E39-9DE2-3CB24D78A8CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{105DE0F0-BB3B-4E39-9DE2-3CB24D78A8CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105DE0F0-BB3B-4E39-9DE2-3CB24D78A8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105DE0F0-BB3B-4E39-9DE2-3CB24D78A8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105DE0F0-BB3B-4E39-9DE2-3CB24D78A8CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE661BCB-6E16-4CFE-9F5D-31F8D697F918}
+	EndGlobalSection
+EndGlobal

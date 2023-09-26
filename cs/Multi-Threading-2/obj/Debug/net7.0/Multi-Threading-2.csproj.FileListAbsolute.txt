@@ -1,0 +1,14 @@
+/home/leo/School-Code/cs/Multi-Threading-2/bin/Debug/net7.0/Multi-Threading-2
+/home/leo/School-Code/cs/Multi-Threading-2/bin/Debug/net7.0/Multi-Threading-2.deps.json
+/home/leo/School-Code/cs/Multi-Threading-2/bin/Debug/net7.0/Multi-Threading-2.runtimeconfig.json
+/home/leo/School-Code/cs/Multi-Threading-2/bin/Debug/net7.0/Multi-Threading-2.dll
+/home/leo/School-Code/cs/Multi-Threading-2/bin/Debug/net7.0/Multi-Threading-2.pdb
+/home/leo/School-Code/cs/Multi-Threading-2/obj/Debug/net7.0/Multi-Threading-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/leo/School-Code/cs/Multi-Threading-2/obj/Debug/net7.0/Multi-Threading-2.AssemblyInfoInputs.cache
+/home/leo/School-Code/cs/Multi-Threading-2/obj/Debug/net7.0/Multi-Threading-2.AssemblyInfo.cs
+/home/leo/School-Code/cs/Multi-Threading-2/obj/Debug/net7.0/Multi-Threading-2.csproj.CoreCompileInputs.cache
+/home/leo/School-Code/cs/Multi-Threading-2/obj/Debug/net7.0/Multi-Threading-2.dll
+/home/leo/School-Code/cs/Multi-Threading-2/obj/Debug/net7.0/refint/Multi-Threading-2.dll
+/home/leo/School-Code/cs/Multi-Threading-2/obj/Debug/net7.0/Multi-Threading-2.pdb
+/home/leo/School-Code/cs/Multi-Threading-2/obj/Debug/net7.0/Multi-Threading-2.genruntimeconfig.cache
+/home/leo/School-Code/cs/Multi-Threading-2/obj/Debug/net7.0/ref/Multi-Threading-2.dll

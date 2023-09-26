@@ -1,0 +1,14 @@
+/home/leo/Projects-school/cs/Threads-Geminiani/bin/Debug/net7.0/Threads-Geminiani
+/home/leo/Projects-school/cs/Threads-Geminiani/bin/Debug/net7.0/Threads-Geminiani.deps.json
+/home/leo/Projects-school/cs/Threads-Geminiani/bin/Debug/net7.0/Threads-Geminiani.runtimeconfig.json
+/home/leo/Projects-school/cs/Threads-Geminiani/bin/Debug/net7.0/Threads-Geminiani.dll
+/home/leo/Projects-school/cs/Threads-Geminiani/bin/Debug/net7.0/Threads-Geminiani.pdb
+/home/leo/Projects-school/cs/Threads-Geminiani/obj/Debug/net7.0/Threads-Geminiani.GeneratedMSBuildEditorConfig.editorconfig
+/home/leo/Projects-school/cs/Threads-Geminiani/obj/Debug/net7.0/Threads-Geminiani.AssemblyInfoInputs.cache
+/home/leo/Projects-school/cs/Threads-Geminiani/obj/Debug/net7.0/Threads-Geminiani.AssemblyInfo.cs
+/home/leo/Projects-school/cs/Threads-Geminiani/obj/Debug/net7.0/Threads-Geminiani.csproj.CoreCompileInputs.cache
+/home/leo/Projects-school/cs/Threads-Geminiani/obj/Debug/net7.0/Threads-Geminiani.dll
+/home/leo/Projects-school/cs/Threads-Geminiani/obj/Debug/net7.0/refint/Threads-Geminiani.dll
+/home/leo/Projects-school/cs/Threads-Geminiani/obj/Debug/net7.0/Threads-Geminiani.pdb
+/home/leo/Projects-school/cs/Threads-Geminiani/obj/Debug/net7.0/Threads-Geminiani.genruntimeconfig.cache
+/home/leo/Projects-school/cs/Threads-Geminiani/obj/Debug/net7.0/ref/Threads-Geminiani.dll
